@@ -1,6 +1,7 @@
 Hi all, my name is Iskander (@Iskvnder)
 
-I love video games and want to do 🖤Game Development🖤
+I love video games and want to do them 
+🖤 Game Development
 
 I like all aspects of the game industry, I tried myself in modeling, animation, wrote a couple of concepts for games,
 but most of all I like video game programming. 
