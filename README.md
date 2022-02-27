@@ -17,4 +17,4 @@ I only got my computer a year ago, so I don't have many projects
 - Basic Rhino 3D, Maya 3D
 - Little university experience with Deep Learning in Python
 - Little experience in VRay
-- Unity and Unreal Engine basics
+- Basics Unity and Unreal Engine 4
