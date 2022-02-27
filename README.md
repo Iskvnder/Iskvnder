@@ -10,6 +10,8 @@ I'm deeply convinced that it's the programming part of the game, its mechanics,
 their interconnection if developed correctly, that can provide players with unforgettable game experience,
 so I'm aiming at this part of this wonderful industry.
 
+I only got my computer a year ago, so I don't have many projects
+
 📚 My knowledge and skills:
 - Basic C++, Java, and Python
 - Basic Rhino 3D, Maya 3D
