@@ -14,6 +14,6 @@ I love video games and want to do them
 
 <img align="left" alt="C++" width="30px" src="https://img.icons8.com/material/480/autodesk-maya.png" />
 
-<img align="left" alt="C++" width="30px" src="https://p.kindpng.com/picc/s/292-2923246_rhino-software-rhino-icon-hd-png-download.png" />[Rhino3d]
+<img align="left" alt="C++" width="30px" src="https://p.kindpng.com/picc/s/292-2923246_rhino-software-rhino-icon-hd-png-download.png" />[https://en.wikipedia.org/wiki/Rhinoceros_3D]
 
 [youtube]: https://www.youtube.com/channel/UCrtvnlbEhhjLexI_wuO5Xvg
