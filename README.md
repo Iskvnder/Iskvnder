@@ -15,7 +15,7 @@ I love video games and want to do them
 
 [<img align="left" alt="Maya" width="30px" src="https://img.icons8.com/material/480/autodesk-maya.png" />][maya]
 
-[<img align="left" alt="Rhino" width="30px" src="https://ledas.com/static/ledas/img/partners-logo/rhinoceros-b.svg" />][rhino]
+[<img align="left" alt="Rhino" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMTupNepSEpbgD70_8_SWudQYjnbbqHGNmw&usqp=CAU" />][rhino]
 
 [rhino]: https://en.wikipedia.org/wiki/Rhinoceros_3D
 [maya]:https://en.wikipedia.org/wiki/Autodesk_Maya
