@@ -1,10 +1,11 @@
-Hi all, my name is Iskander (@Iskvnder)
+## Hello, my name is Iskander (@Iskvnder)
+## I love video games and want to do them
 
-I love video games and want to do them 
+## Skills
+[<img align="left" alt="Java" width="30px" src="https://cdn-icons-png.flaticon.com/512/152/152760.png" />][]
 
-📚 My knowledge and skills:
-- Basic C++, Java, and Python
-- Basic Rhino 3D, Maya 3D
-- Little university experience with Deep Learning in Python
-- Little experience in VRay
-- Basics Unity and Unreal Engine 4
+[<img align="left" alt="Java" width="30px" src="https://cdn-icons-png.flaticon.com/512/152/152760.png" />][]
+
+[<img align="left" alt="Java" width="30px" src="https://cdn-icons-png.flaticon.com/512/152/152760.png" />][]
+
+[<img align="left" alt="Java" width="30px" src="https://cdn-icons-png.flaticon.com/512/152/152760.png" />][]
