@@ -1,5 +1,5 @@
 <p align="center">
- <img align="" alt="gif" width="600" height="200" src="https://mangahelpers.com/forum/media/digimon-signature-gif.23221/full" />
+ <img align="" alt="gif" width="600" height="200" src="https://starcrossedanime.com/wp-content/uploads/2019/11/Banner2.png" />
 
 <br />
 <!---
