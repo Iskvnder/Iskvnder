@@ -17,7 +17,6 @@ I love video games and want to do them
 
 [<img align="left" alt="Rhino" width="30px" src="https://p.kindpng.com/picc/s/292-2923246_rhino-software-rhino-icon-hd-png-download.png" />][rhino]
 
-[youtube]: https://www.youtube.com/channel/UCrtvnlbEhhjLexI_wuO5Xvg
 [rhino]: https://en.wikipedia.org/wiki/Rhinoceros_3D
 [maya]:https://en.wikipedia.org/wiki/Autodesk_Maya
 [unity]:https://en.wikipedia.org/wiki/Unity_(game_engine)
@@ -26,6 +25,11 @@ I love video games and want to do them
 [python]:https://en.wikipedia.org/wiki/Python_(programming_language)
 [java]:https://en.wikipedia.org/wiki/Java_(programming_language)
 
-ex [<img align="left" alt="ArtStation" width="30px" src="" />][]
 ## Contact
 [<img align="left" alt="ArtStation" width="30px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Artstation-512.png" />][artstation]
+[<img align="left" alt="Youtube" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube]
+[<img align="left" alt="GitHub" width="30px" src="https://pngset.com/images/github-icon-free-download-symbol-logo-trademark-label-transparent-png-1868500.png" />][github]
+
+[artstation]: https://www.artstation.com/iskvnder
+[github]: https://github.com/Iskvnder
+[youtube]: https://www.youtube.com/channel/UCrtvnlbEhhjLexI_wuO5Xvg
