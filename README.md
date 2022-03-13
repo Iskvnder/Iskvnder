@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" alt="gif" width="200px" src="https://cdn.discordbanners.net/users/528288312448909312/discordbanners__jO0zu2bPr049Zw8K24HR.gif" />
+  <img align="center" alt="gif" width="500px" src="https://cdn.discordbanners.net/users/528288312448909312/discordbanners__jO0zu2bPr049Zw8K24HR.gif" />
 </p>
 
 <br /><br />
