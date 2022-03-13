@@ -11,7 +11,7 @@ I love video games and want to do them
 
 [<img align="left" alt="Unreal Engine" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/unreal-engine-2749375-2284765.png" />][unreal]
 
-[<img align="left" alt="Unity" width="30px" src="https://icon-library.com/images/unity-icon/unity-icon-1.jpg" />][unity]
+[<img align="left" alt="Unity" width="30px" src="https://www.pikpng.com/pngl/m/238-2387858_unity-icon-clipart.png" />][unity]
 
 [<img align="left" alt="Maya" width="30px" src="https://img.icons8.com/material/480/autodesk-maya.png" />][maya]
 
@@ -28,7 +28,7 @@ I love video games and want to do them
 ## Contact
 [<img align="left" alt="ArtStation" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968654.png" />][artstation]
 [<img align="left" alt="Youtube" width="30px" src="https://cdn-icons-png.flaticon.com/512/152/152810.png" />][youtube]
-[<img align="left" alt="GitHub" width="30px" src="https://pngset.com/images/github-icon-free-download-symbol-logo-trademark-label-transparent-png-1868500.png" />][github]
+[<img align="left" alt="GitHub" width="30px" src="https://pngset.com/images/github-icon-free-download-symbol-logo-trademark-label-transparent-png-1868503.png" />][github]
 
 [artstation]: https://www.artstation.com/iskvnder
 [github]: https://github.com/Iskvnder
