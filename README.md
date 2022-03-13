@@ -1,7 +1,7 @@
 <p align="center">
  </p>
 
-<img align="left" alt="Re L Mayer" width="100px" src="https://styles.redditmedia.com/t5_2uzt0/styles/communityIcon_00ny9qeltx381.png" />
+<img align="left" alt="Re L Mayer" width="100x20" src="https://styles.redditmedia.com/t5_2uzt0/styles/communityIcon_00ny9qeltx381.png" />
 
 <br />
 Hello, my name is Iskander (@Iskvnder)
