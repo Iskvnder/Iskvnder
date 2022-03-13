@@ -15,7 +15,6 @@ At the bottom you can see all my skills, as well as links to contact me
 <br />
 
 ## Skills
-
 [<img align="left" alt="Java" width="30px" src="https://cdn-icons-png.flaticon.com/512/152/152760.png" />][java]
 
 [<img align="left" alt="C++" width="30px" src="https://img.icons8.com/ios-filled/500/c-plus-plus-logo.png" />][c]
