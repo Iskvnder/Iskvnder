@@ -2,8 +2,9 @@
  <img align="" alt="gif" width="600" height="200" src="https://mangahelpers.com/forum/media/digimon-signature-gif.23221/full" />
  </p>
 <br />
+<!---
 <img align="left" alt="Re L Mayer" width="100" src="https://styles.redditmedia.com/t5_2uzt0/styles/communityIcon_00ny9qeltx381.png" />
-
+-->
 <br />
 Hello, my name is Iskander (@Iskvnder)
 <br />
