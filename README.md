@@ -26,7 +26,7 @@ I love video games and want to do them
 [java]:https://en.wikipedia.org/wiki/Java_(programming_language)
 <br />
 ## Contact
-[<img align="left" alt="ArtStation" width="30px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Artstation-512.png" />][artstation]
+[<img align="left" alt="ArtStation" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968654.png" />][artstation]
 [<img align="left" alt="Youtube" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube]
 [<img align="left" alt="GitHub" width="30px" src="https://pngset.com/images/github-icon-free-download-symbol-logo-trademark-label-transparent-png-1868500.png" />][github]
 
