@@ -1,5 +1,7 @@
 <p align="center">
- <img align="" alt="gif" width="800" height="150" src="https://starcrossedanime.com/wp-content/uploads/2019/11/Banner2.png" />
+ <img align="" alt="gif" width="800" height="150" src="![gdg](https://user-images.githubusercontent.com/100485088/158073328-b3711c5d-c496-4d06-bc25-9b8e87455602.png)" />
+ https://starcrossedanime.com/wp-content/uploads/2019/11/Banner2.png
+
 
 <br />
 <!---
