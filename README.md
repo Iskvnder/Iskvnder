@@ -1,5 +1,5 @@
 <img align="left" alt="Re L Mayer" width="100px" src="https://styles.redditmedia.com/t5_2uzt0/styles/communityIcon_00ny9qeltx381.png" />
-<img align="right" alt="Re L Mayer" width="100px" src="https://styles.redditmedia.com/t5_2uzt0/styles/communityIcon_00ny9qeltx381.png" />
+<img align="right" alt="gif" width="100px" src="https://i.pinimg.com/originals/0e/40/9d/0e409dc0b3fe6a9d18602d6473dbd28e.gif" />
 <br />
 Hello, my name is Iskander (@Iskvnder)
 <br />
