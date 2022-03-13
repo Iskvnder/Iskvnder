@@ -12,6 +12,8 @@ I love video games and want to do them
 
 <img align="left" alt="C++" width="30px" src="https://icon-library.com/images/unity-icon/unity-icon-1.jpg" />
 
+<img align="left" alt="C++" width="30px" src="https://img.icons8.com/material/480/autodesk-maya.png" />
+
 
 
 [youtube]: https://www.youtube.com/channel/UCrtvnlbEhhjLexI_wuO5Xvg
