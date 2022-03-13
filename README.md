@@ -26,4 +26,6 @@ I love video games and want to do them
 [python]:https://en.wikipedia.org/wiki/Python_(programming_language)
 [java]:https://en.wikipedia.org/wiki/Java_(programming_language)
 
+ex [<img align="left" alt="ArtStation" width="30px" src="" />][]
 ## Contact
+[<img align="left" alt="ArtStation" width="30px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Artstation-512.png" />][artstation]
