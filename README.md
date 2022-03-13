@@ -8,7 +8,7 @@ I love video games and want to do them
 
 <img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Python_icon_%28black_and_white%29.svg/2048px-Python_icon_%28black_and_white%29.svg.png" />
 
-<img align="left" alt="C++" width="30px" src="https://w7.pngwing.com/pngs/19/568/png-transparent-unreal-tournament-unreal-engine-4-game-engine-engine-miscellaneous-text-trademark-thumbnail.png" />
+<img align="left" alt="C++" width="30px" src="https://e7.pngegg.com/pngimages/214/636/png-clipart-unreal-tournament-unreal-engine-4-fortnite-others-thumbnail.png" />
 
 <img align="left" alt="C++" width="30px" src="https://icon-library.com/images/unity-icon/unity-icon-1.jpg" />
 
