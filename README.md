@@ -37,7 +37,7 @@ At the bottom you can see all my skills, as well as links to contact me
 [<img align="left" alt="GitHub" width="30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][github]
 [<img align="left" alt="Steam" width="30px" src="https://www.kindpng.com/picc/m/570-5704248_steam-logo-black-and-white-steam-icon-png.png" />][steam]
 [<img align="left" alt="LinkedIn" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0mCI-i6Dc-_WDolKjaI5jlZRRGyahhtlwI1YR7JibqaMiNOXkWqBqSnt_4arQoHkgm74&usqp=CAU" />][linkedin]
-[<img align="left" alt="HeadHunter" width="30px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/headhunter-hh-kz-logo.png" />][hh]
+[<img align="left" alt="HeadHunter" width="30px" src="https://img.myloview.com/stickers/hh-letter-logo-design-on-black-background-hh-creative-initials-letter-logo-concept-hh-letter-design-hh-white-letter-design-on-black-background-h-h-h-h-logo-700-249335541.jpg" />][hh]
 
 <br /><br />
 iskanderesz@gmail.com
