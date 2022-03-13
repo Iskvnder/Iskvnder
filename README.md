@@ -1,6 +1,5 @@
 <p align="center">
-  <img align="center" alt="gif" width="500px" src="https://cdn.discordbanners.net/users/528288312448909312/discordbanners__jO0zu2bPr049Zw8K24HR.gif" />
-</p>
+ </p>
 
 <br /><br />
 <img align="left" alt="Re L Mayer" width="100px" src="https://styles.redditmedia.com/t5_2uzt0/styles/communityIcon_00ny9qeltx381.png" />
