@@ -1,4 +1,4 @@
-<img align="right" alt="gif" width="500px" src="https://img-fotki.yandex.ru/get/4103/79250674.a26/0_e2ff5_ce6c6e3c_orig" />
+<img align="center" alt="gif" width="200px" src="https://img-fotki.yandex.ru/get/4103/79250674.a26/0_e2ff5_ce6c6e3c_orig" />
 <br /><br />
 <img align="left" alt="Re L Mayer" width="100px" src="https://styles.redditmedia.com/t5_2uzt0/styles/communityIcon_00ny9qeltx381.png" />
 
