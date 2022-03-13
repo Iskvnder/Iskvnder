@@ -1,6 +1,8 @@
 Hello, my name is Iskander (@Iskvnder)
+<br />
 I love video games and want to do them
 <img align="left" alt="Re L Mayer" width="100px" src="https://styles.redditmedia.com/t5_2uzt0/styles/communityIcon_00ny9qeltx381.png" />
+<br />
 ## Skills
 
 [<img align="left" alt="Java" width="30px" src="https://cdn-icons-png.flaticon.com/512/152/152760.png" />][java]
