@@ -1,5 +1,5 @@
 <p align="center">
- <img align="" alt="gif" width="600" height="200" src="https://starcrossedanime.com/wp-content/uploads/2019/11/Banner2.png" />
+ <img align="" alt="gif" width="1000" height="200" src="https://starcrossedanime.com/wp-content/uploads/2019/11/Banner2.png" />
 
 <br />
 <!---
