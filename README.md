@@ -5,7 +5,6 @@ Hello, my name is Iskander (@Iskvnder)
 I love video games and want to do them
 <br />
 At the bottom you can see all my skills, as well as links to contact me
-
 <br />
 
 ## Skills
@@ -37,6 +36,7 @@ At the bottom you can see all my skills, as well as links to contact me
 [<img align="left" alt="Youtube" width="30px" src="https://cdn-icons-png.flaticon.com/512/152/152810.png" />][youtube]
 [<img align="left" alt="GitHub" width="30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][github]
 [<img align="left" alt="Steam" width="30px" src="https://www.kindpng.com/picc/m/570-5704248_steam-logo-black-and-white-steam-icon-png.png" />][steam]
+<br />
 iskanderesz@gmail.com
 
 [artstation]: https://www.artstation.com/iskvnder
