@@ -1,6 +1,6 @@
 <p align="center">
  <img align="" alt="gif" width="600" height="200" src="https://mangahelpers.com/forum/media/digimon-signature-gif.23221/full" />
- </p>
+
 <br />
 <!---
 <img align="left" alt="Re L Mayer" width="100" src="https://styles.redditmedia.com/t5_2uzt0/styles/communityIcon_00ny9qeltx381.png" />
@@ -13,7 +13,6 @@ I love video games and want to do them
 At the bottom you can see all my skills, as well as links to contact me
 </p>
 <br />
-
 ## Skills
 
 [<img align="left" alt="Java" width="30px" src="https://cdn-icons-png.flaticon.com/512/152/152760.png" />][java]
