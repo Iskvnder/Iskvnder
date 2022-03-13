@@ -28,7 +28,7 @@ I love video games and want to do them
 ## Contact
 [<img align="left" alt="ArtStation" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968654.png" />][artstation]
 [<img align="left" alt="Youtube" width="30px" src="https://cdn-icons-png.flaticon.com/512/152/152810.png" />][youtube]
-[<img align="left" alt="GitHub" width="30px" src="https://pngset.com/images/github-icon-free-download-symbol-logo-trademark-label-transparent-png-1868503.png" />][github]
+[<img align="left" alt="GitHub" width="30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][github]
 
 [artstation]: https://www.artstation.com/iskvnder
 [github]: https://github.com/Iskvnder
