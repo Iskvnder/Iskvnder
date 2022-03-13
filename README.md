@@ -29,7 +29,9 @@ I love video games and want to do them
 [<img align="left" alt="ArtStation" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968654.png" />][artstation]
 [<img align="left" alt="Youtube" width="30px" src="https://cdn-icons-png.flaticon.com/512/152/152810.png" />][youtube]
 [<img align="left" alt="GitHub" width="30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][github]
+[<img align="left" alt="Steam" width="30px" src="https://flyclipart.com/thumb2/circle-gaming-round-icon-steam-icon-358255.png" />][steam]
 
 [artstation]: https://www.artstation.com/iskvnder
 [github]: https://github.com/Iskvnder
 [youtube]: https://www.youtube.com/channel/UCrtvnlbEhhjLexI_wuO5Xvg
+[steam]:https://steamcommunity.com/id/iskvnder/
