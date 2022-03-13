@@ -5,7 +5,7 @@ Hello, my name is Iskander (@Iskvnder)
 I love video games and want to do them
 
 <br />
-<br /><br />
+<br />
 
 ## Skills
 
