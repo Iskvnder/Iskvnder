@@ -15,7 +15,7 @@ At the bottom you can see all my skills, as well as links to contact me
 ## Skills
 [<img align="left" alt="Java" width="30px" src="https://user-images.githubusercontent.com/100485088/158657285-5d585703-d01a-4d67-968a-81b0aae30ece.png" />][java]
 
-[<img align="left" alt="C++" width="30px" src="https://img.icons8.com/ios-filled/500/c-plus-plus-logo.png" />][c]
+[<img align="left" alt="C++" width="30px" src=https://user-images.githubusercontent.com/100485088/158657487-144b7802-bca2-4daa-a681-68d9f99867eb.png />][c]
 
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Python_icon_%28black_and_white%29.svg/2048px-Python_icon_%28black_and_white%29.svg.png" />][python]
 
