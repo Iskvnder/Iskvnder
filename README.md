@@ -10,7 +10,7 @@ Hello, my name is Iskander (@Iskvnder)
 I love video games and want to do them
 <br />
 At the bottom you can see all my skills, as well as links to contact me
-</p><br />
+</p><br /><br /><br />
 
 ## Skills
 [<img align="left" alt="Java" width="50" height="50" src="https://user-images.githubusercontent.com/100485088/158657285-5d585703-d01a-4d67-968a-81b0aae30ece.png" />][java]
