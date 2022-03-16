@@ -25,7 +25,7 @@ At the bottom you can see all my skills, as well as links to contact me
 
 [<img align="left" alt="Maya" width="30px" src="https://user-images.githubusercontent.com/100485088/158658049-d0ca4b7d-1ff5-4411-b06e-61746c8a05c8.png" />][maya]
 
-[<img align="left" alt="Rhino" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMTupNepSEpbgD70_8_SWudQYjnbbqHGNmw&usqp=CAU" />][rhino]
+[<img align="left" alt="Rhino" width="30px" src="https://user-images.githubusercontent.com/100485088/158658125-c8749ab8-8c81-42c8-ae65-d59de004b67c.png" />][rhino]
 
 [rhino]: https://en.wikipedia.org/wiki/Rhinoceros_3D
 [maya]:https://en.wikipedia.org/wiki/Autodesk_Maya
