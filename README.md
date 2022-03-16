@@ -19,7 +19,7 @@ At the bottom you can see all my skills, as well as links to contact me
 
 [<img align="left" alt="Python" width="30px" src="https://user-images.githubusercontent.com/100485088/158657565-a6a289a4-84c7-4ebf-8c99-651894a4568c.png" />][python]
 
-[<img align="left" alt="Unreal Engine" width="30px" height="30" src="https://user-images.githubusercontent.com/100485088/158657689-3442f8a2-0875-4002-b060-f6a48c49a627.png" />][unreal]
+[<img align="left" alt="Unreal Engine" width="30px" height="30" src="https://user-images.githubusercontent.com/100485088/158657876-d0e6bf4c-25d0-49dc-98d8-1c01b237382b.png" />][unreal]
 
 [<img align="left" alt="Unity" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JC9KDh-UVAiFfDJ7ogzPMQqM24L3rPaVeIk12oxOisxnJ99hOI7hh_Wehb0Bbcx5oDY&usqp=CAU" />][unity]
 
