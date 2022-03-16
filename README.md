@@ -13,19 +13,19 @@ At the bottom you can see all my skills, as well as links to contact me
 </p><br />
 
 ## Skills
-[<img align="left" alt="Java" width="50" height="50" src="https://user-images.githubusercontent.com/100485088/158657285-5d585703-d01a-4d67-968a-81b0aae30ece.png" />][java]
+[<img align="left" alt="Java" width="40" height="40" src="https://user-images.githubusercontent.com/100485088/158657285-5d585703-d01a-4d67-968a-81b0aae30ece.png" />][java]
 
-[<img align="left" alt="C++" width="50" height="50" src=https://user-images.githubusercontent.com/100485088/158657487-144b7802-bca2-4daa-a681-68d9f99867eb.png />][c]
+[<img align="left" alt="C++" width="40" height="40" src=https://user-images.githubusercontent.com/100485088/158657487-144b7802-bca2-4daa-a681-68d9f99867eb.png />][c]
 
-[<img align="left" alt="Python" width="50" height="50" src="https://user-images.githubusercontent.com/100485088/158657565-a6a289a4-84c7-4ebf-8c99-651894a4568c.png" />][python]
+[<img align="left" alt="Python" width="40" height="40" src="https://user-images.githubusercontent.com/100485088/158657565-a6a289a4-84c7-4ebf-8c99-651894a4568c.png" />][python]
 
-[<img align="left" alt="Unreal Engine" width="50" height="50" src="https://user-images.githubusercontent.com/100485088/158657876-d0e6bf4c-25d0-49dc-98d8-1c01b237382b.png" />][unreal]
+[<img align="left" alt="Unreal Engine" width="40" height="40" src="https://user-images.githubusercontent.com/100485088/158657876-d0e6bf4c-25d0-49dc-98d8-1c01b237382b.png" />][unreal]
 
-[<img align="left" alt="Unity" width="50" height="50" src="https://user-images.githubusercontent.com/100485088/158657963-2bb35714-99f9-4adb-838d-b9cd2aae7833.png" />][unity]
+[<img align="left" alt="Unity" width="40" height="40" src="https://user-images.githubusercontent.com/100485088/158657963-2bb35714-99f9-4adb-838d-b9cd2aae7833.png" />][unity]
 
-[<img align="left" alt="Maya" width="50" height="50" src="https://user-images.githubusercontent.com/100485088/158658049-d0ca4b7d-1ff5-4411-b06e-61746c8a05c8.png" />][maya]
+[<img align="left" alt="Maya" width="40" height="40" src="https://user-images.githubusercontent.com/100485088/158658049-d0ca4b7d-1ff5-4411-b06e-61746c8a05c8.png" />][maya]
 
-[<img align="left" alt="Rhino" width="50" height="50" src="https://user-images.githubusercontent.com/100485088/158658125-c8749ab8-8c81-42c8-ae65-d59de004b67c.png" />][rhino]
+[<img align="left" alt="Rhino" width="40" height="40" src="https://user-images.githubusercontent.com/100485088/158658125-c8749ab8-8c81-42c8-ae65-d59de004b67c.png" />][rhino]
 
 [rhino]: https://en.wikipedia.org/wiki/Rhinoceros_3D
 [maya]:https://en.wikipedia.org/wiki/Autodesk_Maya
