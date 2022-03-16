@@ -17,7 +17,7 @@ At the bottom you can see all my skills, as well as links to contact me
 
 [<img align="left" alt="C++" width="30px" src=https://user-images.githubusercontent.com/100485088/158657487-144b7802-bca2-4daa-a681-68d9f99867eb.png />][c]
 
-[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Python_icon_%28black_and_white%29.svg/2048px-Python_icon_%28black_and_white%29.svg.png" />][python]
+[<img align="left" alt="Python" width="30px" src="https://user-images.githubusercontent.com/100485088/158657565-a6a289a4-84c7-4ebf-8c99-651894a4568c.png" />][python]
 
 [<img align="left" alt="Unreal Engine" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/unreal-engine-2749375-2284765.png" />][unreal]
 
