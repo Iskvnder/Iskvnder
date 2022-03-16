@@ -13,7 +13,8 @@ At the bottom you can see all my skills, as well as links to contact me
 </p><br />
 
 ## Skills
-[<img align="left" alt="Java" width="30px" src="https://cdn-icons-png.flaticon.com/512/152/152760.png" />][java]
+[<img align="left" alt="Java" width="30px" src="![image](https://user-images.githubusercontent.com/100485088/158657285-5d585703-d01a-4d67-968a-81b0aae30ece.png)
+" />][java]
 
 [<img align="left" alt="C++" width="30px" src="https://img.icons8.com/ios-filled/500/c-plus-plus-logo.png" />][c]
 
