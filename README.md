@@ -21,7 +21,7 @@ At the bottom you can see all my skills, as well as links to contact me
 
 [<img align="left" alt="Unreal Engine" width="30px" height="30" src="https://user-images.githubusercontent.com/100485088/158657876-d0e6bf4c-25d0-49dc-98d8-1c01b237382b.png" />][unreal]
 
-[<img align="left" alt="Unity" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JC9KDh-UVAiFfDJ7ogzPMQqM24L3rPaVeIk12oxOisxnJ99hOI7hh_Wehb0Bbcx5oDY&usqp=CAU" />][unity]
+[<img align="left" alt="Unity" width="30px" src="https://user-images.githubusercontent.com/100485088/158657963-2bb35714-99f9-4adb-838d-b9cd2aae7833.png" />][unity]
 
 [<img align="left" alt="Maya" width="30px" src="https://img.icons8.com/material/480/autodesk-maya.png" />][maya]
 
