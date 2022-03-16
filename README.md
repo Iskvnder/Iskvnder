@@ -34,7 +34,7 @@ At the bottom you can see all my skills, as well as links to contact me
 [c]:https://en.wikipedia.org/wiki/C%2B%2B
 [python]:https://en.wikipedia.org/wiki/Python_(programming_language)
 [java]:https://en.wikipedia.org/wiki/Java_(programming_language)
-<br />
+<br /><br />
 ## Contact
 [<img align="left" alt="ArtStation" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968654.png" />][artstation]
 [<img align="left" alt="Youtube" width="30px" src="https://cdn-icons-png.flaticon.com/512/152/152810.png" />][youtube]
