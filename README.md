@@ -23,7 +23,7 @@ At the bottom you can see all my skills, as well as links to contact me
 
 [<img align="left" alt="Unity" width="30px" src="https://user-images.githubusercontent.com/100485088/158657963-2bb35714-99f9-4adb-838d-b9cd2aae7833.png" />][unity]
 
-[<img align="left" alt="Maya" width="30px" src="https://img.icons8.com/material/480/autodesk-maya.png" />][maya]
+[<img align="left" alt="Maya" width="30px" src="https://user-images.githubusercontent.com/100485088/158658049-d0ca4b7d-1ff5-4411-b06e-61746c8a05c8.png" />][maya]
 
 [<img align="left" alt="Rhino" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMTupNepSEpbgD70_8_SWudQYjnbbqHGNmw&usqp=CAU" />][rhino]
 
