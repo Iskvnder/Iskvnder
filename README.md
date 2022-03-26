@@ -36,12 +36,12 @@ At the bottom you can see all my skills, as well as links to contact me
 [java]:https://en.wikipedia.org/wiki/Java_(programming_language)
 <br /><br />
 ## Contact
-[<img align="left" alt="ArtStation" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968654.png" />][artstation]
+[<img align="left" alt="ArtStation" width="30px" src="https://user-images.githubusercontent.com/100485088/160231237-06eda975-7f76-4ba6-ae31-6164537b658c.png" />][artstation]
 [<img align="left" alt="Youtube" width="30px" src="https://user-images.githubusercontent.com/100485088/160231214-6469b2a7-da48-4f14-af9b-034f29b4bce4.png" />][youtube]
 [<img align="left" alt="GitHub" width="30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][github]
 [<img align="left" alt="Steam" width="30px" src="https://www.kindpng.com/picc/m/570-5704248_steam-logo-black-and-white-steam-icon-png.png" />][steam]
 [<img align="left" alt="LinkedIn" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0mCI-i6Dc-_WDolKjaI5jlZRRGyahhtlwI1YR7JibqaMiNOXkWqBqSnt_4arQoHkgm74&usqp=CAU" />][linkedin]
-[<img align="left" alt="HeadHunter" width="30px" src="https://img.myloview.com/stickers/hh-letter-logo-design-on-black-background-hh-creative-initials-letter-logo-concept-hh-letter-design-hh-white-letter-design-on-black-background-h-h-h-h-logo-700-249335541.jpg" />][hh]
+[<img align="left" alt="HeadHunter" width="30px" src="https://user-images.githubusercontent.com/100485088/160231268-a369f0e6-52b7-419c-96b3-16c44103f62e.png" />][hh]
 
 <br /><br />
 iskanderesz@gmail.com
