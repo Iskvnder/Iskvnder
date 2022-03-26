@@ -1,20 +1,17 @@
-<p align="center">
- 
-<img align="center" alt="Reading" width="600" height="350" src="https://user-images.githubusercontent.com/100485088/160246777-de3e71f2-bdda-4ce4-84cd-3291f1a92a69.jpg">
 
- <!---
+
  <img align="" alt="gif" width="1000" height="150" src="https://user-images.githubusercontent.com/100485088/158074166-e06804ba-40e8-432e-9e6a-a966f81609b5.jpg" />
 <br />
-<!---
+
 <img align="left" alt="Re L Mayer" width="100" src="https://styles.redditmedia.com/t5_2uzt0/styles/communityIcon_00ny9qeltx381.png" />
--->
+
 <br />
 Hello, my name is Iskander (@Iskvnder)
 <br />
 I love video games and want to do them
 <br />
 At the bottom you can see all my skills, as well as links to contact me
-</p><br />
+<br />
 
 ## Skills
 [<img align="left" alt="Java" width="40" height="40" src="https://user-images.githubusercontent.com/100485088/158657285-5d585703-d01a-4d67-968a-81b0aae30ece.png" />][java]
