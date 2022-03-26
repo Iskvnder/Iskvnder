@@ -1,6 +1,6 @@
 
-
- <img align="" alt="gif" width="1000" height="150" src="https://user-images.githubusercontent.com/100485088/158074166-e06804ba-40e8-432e-9e6a-a966f81609b5.jpg" />
+<!---
+<img align="" alt="gif" width="1000" height="150" src="https://user-images.githubusercontent.com/100485088/158074166-e06804ba-40e8-432e-9e6a-a966f81609b5.jpg" />
 <br />
 
 <img align="left" alt="Re L Mayer" width="100" src="https://styles.redditmedia.com/t5_2uzt0/styles/communityIcon_00ny9qeltx381.png" />
@@ -36,6 +36,7 @@ At the bottom you can see all my skills, as well as links to contact me
 [python]:https://en.wikipedia.org/wiki/Python_(programming_language)
 [java]:https://en.wikipedia.org/wiki/Java_(programming_language)
 <br /><br />
+-->
 ## Contact
 [<img align="left" alt="ArtStation" width="30px" height="30" src="https://user-images.githubusercontent.com/100485088/160231237-06eda975-7f76-4ba6-ae31-6164537b658c.png" />][artstation]
 [<img align="left" alt="Youtube" width="40px" height="30" src="https://user-images.githubusercontent.com/100485088/160231214-6469b2a7-da48-4f14-af9b-034f29b4bce4.png" />][youtube]
