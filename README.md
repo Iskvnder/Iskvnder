@@ -46,7 +46,6 @@ At the bottom you can see all my skills, as well as links to contact me
 [<img align="left" alt="Steam" width="30px" height="30" src="https://www.kindpng.com/picc/m/570-5704248_steam-logo-black-and-white-steam-icon-png.png" />][steam]
 [<img align="left" alt="LinkedIn" width="30px" height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0mCI-i6Dc-_WDolKjaI5jlZRRGyahhtlwI1YR7JibqaMiNOXkWqBqSnt_4arQoHkgm74&usqp=CAU" />][linkedin]
 -->
-<br /><br />
 iskanderesz@gmail.com
 
 [artstation]: https://www.artstation.com/iskvnder
