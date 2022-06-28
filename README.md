@@ -1,6 +1,6 @@
 
 
-<img align="" alt="gif" width="1000" height="300" src="https://user-images.githubusercontent.com/100485088/176313981-5d998693-0535-4dfb-bdc8-37a06ed11720.jpg" />
+<img align="" alt="gif" width="1000" height="250" src="https://user-images.githubusercontent.com/100485088/176313981-5d998693-0535-4dfb-bdc8-37a06ed11720.jpg" />
 
 <!---
 <img align="left" alt="Re L Mayer" width="100" src="https://styles.redditmedia.com/t5_2uzt0/styles/communityIcon_00ny9qeltx381.png" />
