@@ -49,7 +49,7 @@ At the bottom you can see all my skills, as well as links to contact me
 [<img align="left" alt="ArtStation" width="30px" height="30" src="https://user-images.githubusercontent.com/100485088/160231237-06eda975-7f76-4ba6-ae31-6164537b658c.png" />][artstation]
 [<img align="left" alt="Youtube" width="45px" height="30" src="https://user-images.githubusercontent.com/100485088/160231214-6469b2a7-da48-4f14-af9b-034f29b4bce4.png" />][youtube]
 [<img align="left" alt="Steam" width="30px" height="30" src="https://www.kindpng.com/picc/m/570-5704248_steam-logo-black-and-white-steam-icon-png.png" />][steam]
-
+<br/>
 iskanderesz@gmail.com
 
 [artstation]: https://www.artstation.com/iskvnder
