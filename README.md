@@ -46,7 +46,7 @@ At the bottom you can see all my skills, as well as links to contact me
 [<img align="left" alt="Steam" width="30px" height="30" src="https://www.kindpng.com/picc/m/570-5704248_steam-logo-black-and-white-steam-icon-png.png" />][steam]
 [<img align="left" alt="LinkedIn" width="30px" height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0mCI-i6Dc-_WDolKjaI5jlZRRGyahhtlwI1YR7JibqaMiNOXkWqBqSnt_4arQoHkgm74&usqp=CAU" />][linkedin]
 -->
-[<img align="left" alt="ArtStation" width="30px" height="30" src="![image](https://user-images.githubusercontent.com/100485088/176314798-25d91656-cc54-4670-87cd-8780f4668e13.png)" />][artstation]
+[<img align="left" alt="ArtStation" width="30px" height="30" src="https://user-images.githubusercontent.com/100485088/176314798-25d91656-cc54-4670-87cd-8780f4668e13.png" />][artstation]
 [<img align="left" alt="Youtube" width="45px" height="30" src="https://user-images.githubusercontent.com/100485088/160231214-6469b2a7-da48-4f14-af9b-034f29b4bce4.png" />][youtube]
 [<img align="left" alt="Steam" width="30px" height="30" src="https://www.kindpng.com/picc/m/570-5704248_steam-logo-black-and-white-steam-icon-png.png" />][steam]
 <br /><br />
