@@ -47,11 +47,11 @@ At the bottom you can see all my skills, as well as links to contact me
 [<img align="left" alt="LinkedIn" width="30px" height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0mCI-i6Dc-_WDolKjaI5jlZRRGyahhtlwI1YR7JibqaMiNOXkWqBqSnt_4arQoHkgm74&usqp=CAU" />][linkedin]
 -->
 [<img align="left" alt="ArtStation" width="30px" height="30" src="https://user-images.githubusercontent.com/100485088/176314798-25d91656-cc54-4670-87cd-8780f4668e13.png" />][artstation] 
-3D Models
+
 [<img align="left" alt="Youtube" width="30px" height="30" src="https://user-images.githubusercontent.com/100485088/176314921-9ed71b8c-d11e-4a4c-987d-f03beb34f1a7.png" />][youtube]
-Videos, i guess
+
 [<img align="left" alt="Steam" width="30px" height="30" src="https://user-images.githubusercontent.com/100485088/176315014-5e17b8aa-7492-4ef8-86dc-879e72bb762b.png" />][steam] 
-Videogames
+
 <br /><br />
 iskanderesz@gmail.com
 
