@@ -1,3 +1,3 @@
-![Group 1](https://user-images.githubusercontent.com/100485088/218311862-b74765c7-7393-4c0c-b4b8-14799eb5a4c0.png)
+![Group 1 (1)](https://user-images.githubusercontent.com/100485088/218311895-5644c5a4-f5c2-46af-9161-82a02699800e.png)
 
 iskanderesz@gmail.com
