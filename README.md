@@ -1,3 +1,3 @@
-[Group 1 (2)](https://user-images.githubusercontent.com/100485088/218311983-b6bbfcea-bce5-4d80-9fed-d050b9030412.png) 
+![Alt text](https://w.wallhaven.cc/full/x6/wallhaven-x68k7l.jpg)
 
 iskanderesz@gmail.com
