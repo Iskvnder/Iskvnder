@@ -1,4 +1,5 @@
-![Alt text](![Github Background](https://github.com/Iskvnder/Iskvnder/assets/100485088/1a6304c3-1be0-4c6f-8961-7fbf7563fe6b)
-)
+![Github Background](https://github.com/Iskvnder/Iskvnder/assets/100485088/df400ab8-c8a0-4f11-a303-d43a139b7aaf)
 
 iskanderesz@gmail.com
+https://www.linkedin.com/in/iskandar-rassulov/
+https://leetcode.com/iskvnder/
